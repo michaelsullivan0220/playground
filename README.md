@@ -16,3 +16,6 @@ A second branch was created for practice with branches. Will be exploring other 
 1) Git actions through vs code
 
 2) Testing again through vs code
+Git actions through vs code.
+
+Testing through VSCode. Changes to main while changing local.
