@@ -14,3 +14,5 @@ A second branch was created for practice with branches. Will be exploring other 
 ## Testing from VS Code
 
 Git actions through vs code.
+
+Testing through VSCode. Changes to main while changing local.
