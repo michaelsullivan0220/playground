@@ -13,4 +13,6 @@ A second branch was created for practice with branches. Will be exploring other 
 
 ## Testing from VS Code
 
-Git actions through vs code.
+1) Git actions through vs code
+
+2) Testing again through vs code
